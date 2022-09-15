@@ -3,32 +3,22 @@
   }
   
   .header {
-    
     display: flex;
     max-width: 1330px;
     min-width: 1280px;
-  
   }
   
-  
-  
   .header__link {
-  
     font-size: 28px;
     text-decoration: none;
     color: #10191E;
   }
   
-  
-  
-  
-  
+
   .project {
     background-position: center;
     background-size: cover;
   }
-  
-  
   
   .project_name_music-album {
     background-image: url(https://code.s3.yandex.net/web-code/album.png);
@@ -62,16 +52,14 @@
     flex-direction: column-reverse;
   }
   
-  
-  
+
   .project__video {
     width: 100%;
     height: 100%;
     object-fit: cover;
   }
   
-  
-  
+ 
   .project_name_slider {
   background-image: url(https://code.s3.yandex.net/web-code/slider.gif);
   }
@@ -84,8 +72,7 @@
   .project_width_m {
   width: 306px;
   }
-  
-  
+
   .project_width_l {
   width: 636px; 
   }
